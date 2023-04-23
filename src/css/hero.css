@@ -1,0 +1,10 @@
+.hero {
+    background-color: yellow;
+    padding-top: 150px;
+}
+.hero-title {
+    font-size: 56px;
+    line-height: 1.17;
+    letter-spacing: 0.04px;
+    margin-bottom: 16px;
+}
