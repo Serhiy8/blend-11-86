@@ -1,11 +1,11 @@
 {
-  "name": "vite-blend-11-12",
+  "name": "blend-11-86",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vite-blend-11-12/",
+    "build": "vite build --base=/blend-11-86/",
     "preview": "vite preview"
   },
   "devDependencies": {
